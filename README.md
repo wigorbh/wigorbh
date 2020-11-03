@@ -9,7 +9,7 @@
   <em> Amo tecnologia </em> e estudo desenvolvimento de Software na TRYBE. 
 </p>
 <h3>Eu codo com </h3> 
-
+<img src="https://emojis.slackmojis.com/emojis/images/1471045839/792/computer.gif?1471045839" align="rigth" margin-left="10px" />
 <ul>
   <li> 
    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" /> 
