@@ -6,5 +6,5 @@
   Olá, Eu sou Will!
 </h1>
 <p>
-  Amo programar , estudo desenvolvimento de Software na TRYBE. 
+  <em> Amo tecnologia </em> e estudo desenvolvimento de Software na TRYBE. 
 </p>
