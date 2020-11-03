@@ -22,7 +22,10 @@
    <li> 
    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
   </li>
-  
 </ul>
+<h3> Meus Status <h3>
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=wigorbh&layout=compact&theme=dracula" heigth="300px" width="400px" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wigorbh&layout=compact&theme=dracula" heigth="300px" width="400px" />
 
 
