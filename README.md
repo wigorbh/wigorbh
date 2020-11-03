@@ -9,6 +9,7 @@
   <em> Amo tecnologia </em> e estudo desenvolvimento de Software na TRYBE. 
 </p>
 <h3>Eu codo com </h3> 
+
 <ul>
   <li> 
    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" /> 
@@ -23,7 +24,7 @@
    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
   </li>
 </ul>
-<img src="https://emojis.slackmojis.com/emojis/images/1471045839/792/computer.gif?1471045839" align="rigth" />
+
 <h3> Meus Status <h3>
  <img src="https://github-readme-stats.vercel.app/api?username=wigorbh&layout=compact&theme=dracula" heigth="300px" width="400px" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wigorbh&layout=compact&theme=dracula" heigth="300px" width="400px" />
