@@ -1,9 +1,8 @@
 <h1>
-  <img
+  Welcome to my Github wave I'm William and I'm very pleased to have you here   <img
       src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
        width="30"
    />
-  Welcome to my Github wave I'm William and I'm very pleased to have you here
 </h1>
 <p>
   I'm a full stack web developer and currently I'm studying at <a href="https://www.betrybe.com/"> Trybe <a/>  <img src="https://uploads-ssl.webflow.com/5fba98ad987231cf0efa3d58/5fba9c9a93a2e77624258d49_Logo.svg" />
