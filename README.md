@@ -18,9 +18,10 @@
    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />  -->
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png"></code>
-<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLpGlk0sWlkgCt3GC_COatmtoBoAdjhJFqQ&usqp=CAU"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfg1k7RlmIrwr8ke14VH7aEbbvt4IJIbTw&usqp=CAU"></code>
+<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLpGlk0sWlkgCt3GC_COatmtoBoAdjhJFqQ&usqp=CAU"></code>
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
