@@ -36,10 +36,8 @@
   <a target="_blank" href="https://www.linkedin.com/in/williamigor/">
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a target="_blank" href="https://dev.to/aryclenio/">
-    <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-  </a>
-  <a target="_blank" href="williamigorsilva@gmail.com">
+
+  <a target="_blank" href="mailto:williamigorsilva@gmail.com">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
  
