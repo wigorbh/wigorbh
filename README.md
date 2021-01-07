@@ -22,11 +22,6 @@ On my github, you'll find projects I've submitted to assess my skills during the
 </br>
 <h3>What I've been learning:</h3> 
 <div>
-<!--    <img src="https://emojis.slackmojis.com/emojis/images/1471045839/792/computer.gif?1471045839" align="rigth" margin-left="10px" />
-   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" /> 
-   <img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
-   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
-  ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true)-->
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="40" src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg"></code>
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfg1k7RlmIrwr8ke14VH7aEbbvt4IJIbTw&usqp=CAU"></code>
