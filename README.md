@@ -1,3 +1,4 @@
+<div>
 <h1>
   Welcome to my Github wave I'm William and I'm very pleased to have you here   <img
       src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
@@ -42,8 +43,8 @@
 </div>
   ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=highcontrast)
   
-    ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=highcontrast)
-
+  ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=highcontrast)
+</div>
 
 
 
