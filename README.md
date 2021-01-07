@@ -27,6 +27,8 @@
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBb74GRnrGpAkoXJNaWtcFEUKxdp1eq8lvLQ&usqp=CAU"></code>
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLpGlk0sWlkgCt3GC_COatmtoBoAdjhJFqQ&usqp=CAU"></code>
   <!-- front end -->
+  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRgD19qMdjAtHrNyJU4b4mi42s8GqGvz8Mw&usqp=CAU"></code>
+  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IJm23e4-m4R3bl2gvUnunOrGEEDEhDnDdg&usqp=CAU"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh_9jssXtuYIGA_P_tpMK2-Pq7UxrPcIuTPg&usqp=CAU"></code>
   <!-- database -->
@@ -37,9 +39,9 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 </div>
-<div>
 
-</div>
+<h3>About me</h3>
+
 
 </br>
 </br>
