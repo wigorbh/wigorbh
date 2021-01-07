@@ -45,7 +45,8 @@
 
   ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=highcontrast)
 
-  
+  ![w](https://komarev.com/ghpvc/?username=wigorbh)
+
   
 
 </div>
