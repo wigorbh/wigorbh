@@ -16,7 +16,8 @@
 <!--    <img src="https://emojis.slackmojis.com/emojis/images/1471045839/792/computer.gif?1471045839" align="rigth" margin-left="10px" />
    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" /> 
    <img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
-   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />  -->
+   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
+  ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true)-->
 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -40,9 +41,17 @@
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
  
+  ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=dark)
   ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=radical)
+  ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=merko)
+    ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=tokyonight)
+  ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=onedark)
+    ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=cobalt)
+  ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=synthwave)
+      ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=highcontrast)
+  ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=dracula)
 
-  ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true)
+
 
 
 </div>
