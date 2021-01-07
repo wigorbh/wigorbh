@@ -13,7 +13,11 @@
 <p>
 On my github, you'll find projects I've submitted to assess my skills during the course I've been taking and some other personal projects.
 </p>
-  
+ <p>
+   You can check some of my projects implemented through the links:
+  </p> 
+   <a href="https://netflix-movieclone.web.app/">NetFlix clone<a> This is a front-end project hosted on firebase
+   <a href="https://netflix-movieclone.web.app/">NetFlix clone<a> This is a front-end and back-end project hosted on heroku
 </br>
 <h3>What I've been learning:</h3> 
 <div>
