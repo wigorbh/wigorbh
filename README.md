@@ -45,7 +45,7 @@ On my github, you'll find projects I've submitted to assess my skills during the
 
 <h3>Maybe you like to know about me:</h3>
 <p>🎓 I hold a bachelor's degree in theology </p>
-<p>🔨 🏗 I'm fascinated to build things, so I love technology </p>
+<p>🏗 I'm fascinated to build things, so I love technology </p>
 <p>🏍️ On the weekends I enjoy in riding motorcycles and watch crime movies </p>
 <p>🌍 I live in Belo horizonte(Brazil), where I was born, so I love a coffee with a cheese. </p>
 </br>
