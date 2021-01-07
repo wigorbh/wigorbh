@@ -51,7 +51,7 @@
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
 
-</br> 
+
   ![](https://komarev.com/ghpvc/?username=wigorbh&color=yellowgreen)
 
 </br> 
