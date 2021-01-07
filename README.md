@@ -17,8 +17,7 @@ On my github, you'll find projects I've submitted to assess my skills during the
    You can check some of my projects implemented through the links:
   </h4> 
   <p>This is a front-end project hosted on firebase: <a href="https://netflix-movieclone.web.app/">NetFlix clone</a></p>
-  <p>This is a full project(bank, front and back) hosted on heroku <a href="https://trybeer-frontend.herokuapp.com/">Trybeer E-commerce</a> </p>
-   
+  <p>This is a full project(bank, front and back) hosted on heroku: <a href="https://trybeer-frontend.herokuapp.com/">Trybeer E-commerce</a> </p>
 </br>
 <h3>What I've been learning:</h3> 
 <div>
@@ -46,9 +45,9 @@ On my github, you'll find projects I've submitted to assess my skills during the
 
 <h3>Maybe you like to know about me:</h3>
 <p>🎓 I hold a bachelor's degree in theology </p>
+<p>🔨 🏗 I'm fascinated to build things, so I love technology </p>
 <p>🏍️ On the weekends I enjoy in riding motorcycles and watch crime movies </p>
-
-</br>
+<p>🌍 I live in Belo horizonte(Brazil), where I was born, so I love a coffee with a cheese. </p>
 </br>
 <h3><b>Contact:</b></h3>
 <div>
