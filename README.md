@@ -6,11 +6,14 @@
    />
 </h1>
 <p>
-</p>
   I'm a full stack web developer and currently I'm studying at <a href="https://www.betrybe.com/"> Trybe 
   <img src="https://uploads-ssl.webflow.com/5fba98ad987231cf0efa3d58/5fba9c9a93a2e77624258d49_Logo.svg" width="50" height="30" />
   <a/>
 </p>
+<p>
+On my github, you'll find projects I've submitted to assess my skills during the course I've been taking and some other personal projects.
+</p>
+  
 </br>
 <h3>What I've been learning:</h3> 
 <div>
