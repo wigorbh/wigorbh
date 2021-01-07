@@ -40,7 +40,7 @@
 </br>
 </br>
 </br>
-<h2>Contact</h2>
+<p><b>Contact</b></p>
 
 <p>Feel free to contact me if you think somehow I can help you. <s> I'm looking for a job </s> </p>
 
@@ -50,7 +50,8 @@
   <a target="_blank" href="mailto:williamigorsilva@gmail.com">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
-   
+
+</br> 
   ![](https://komarev.com/ghpvc/?username=wigorbh&color=yellowgreen)
 
 </br> 
