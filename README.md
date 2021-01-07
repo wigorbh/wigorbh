@@ -26,6 +26,8 @@
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfg1k7RlmIrwr8ke14VH7aEbbvt4IJIbTw&usqp=CAU"></code>
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLpGlk0sWlkgCt3GC_COatmtoBoAdjhJFqQ&usqp=CAU"></code>
   <!-- front end -->
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
+  <code><img height="40" src="https://cdn.zapier.com/storage/blog/4ec8fc7dc3a75758a3913bab9e5a4fd8_2.500x278.png"></code>
   <!-- database -->
   <code><img height="40" src="https://miro.medium.com/max/640/1*-ivYkzeuYJedPKdEdfnNlg.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
