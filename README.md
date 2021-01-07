@@ -40,9 +40,9 @@
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
  
-  
+  ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=radical
 
-    ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true)
+  ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true)
 
 
 </div>
