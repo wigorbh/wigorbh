@@ -12,7 +12,7 @@
   <a/>
 </p>
 <p>
-   
+
 </p>
 <h3>What I've been learning:</h3> 
 <div>
@@ -23,6 +23,7 @@
   ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true)-->
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="40" src="https://img.favpng.com/20/4/0/node-js-javascript-react-mean-angularjs-png-favpng-9jx9sihXGEqtr5xCmpXZtGFjQ.jpg"></code>
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfg1k7RlmIrwr8ke14VH7aEbbvt4IJIbTw&usqp=CAU"></code>
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBb74GRnrGpAkoXJNaWtcFEUKxdp1eq8lvLQ&usqp=CAU"></code>
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLpGlk0sWlkgCt3GC_COatmtoBoAdjhJFqQ&usqp=CAU"></code>
