@@ -40,8 +40,9 @@
 
 </div>
 
-<h3>About me</h3>
-
+<h3>Maybe you like to know about me</h3>
+<p>🎓 I hold a bachelor's degree in theology </p>
+<p>🏍️ On the weekends I enjoy in riding motorcycles and watch crime movies </p>
 
 </br>
 </br>
