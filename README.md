@@ -44,14 +44,14 @@ On my github, you'll find projects I've submitted to assess my skills during the
 </br>
 
 <h3>Maybe you like to know about me:</h3>
-<p>🎓 I hold a bachelor's degree in theology </p>
-<p>🏗 I'm fascinated to build things, so I love technology </p>
-<p>🏍️ On the weekends I enjoy in riding motorcycles and watch crime movies </p>
+<p>🎓 I hold a bachelor's degree in theology. </p>
+<p>🏗 I'm fascinated to build things, so I love technology. </p>
+<p>🏍️ On the weekends I enjoy in riding motorcycles and watch crime movies. </p>
 <p>🌍 I live in Belo horizonte(Brazil), where I was born, so I love a coffee with a cheese. </p>
 </br>
 <h3><b>Contact:</b></h3>
 <div>
-<p>Feel free to contact me if you think somehow I can help you. <s> I'm looking for a job </s> </p>
+<p>Feel free to contact me if you think somehow I can help you. <s> I'm looking for a job. </s> </p>
 
   <a target="_blank" href="https://www.linkedin.com/in/williamigor/">
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -65,6 +65,7 @@ On my github, you'll find projects I've submitted to assess my skills during the
 
   ![](https://komarev.com/ghpvc/?username=wigorbh&color=yellowgreen)
 </br> 
+</br>
   ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=highcontrast)
 </div>
 
