@@ -34,18 +34,22 @@
 
 </div>
 <div>
-  <a target="_blank" href="https://www.linkedin.com/in/williamigor/">
-    <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a target="_blank" href="mailto:williamigorsilva@gmail.com">
-    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
+
 </div>
 
 </br>
 </br>
 </br>
 <h2>Contact</h2>
+
+<p>Feel free to contact me if you think somehow I can help you. <s> I'm looking for a job </s> </p>
+
+  <a target="_blank" href="https://www.linkedin.com/in/williamigor/">
+    <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a target="_blank" href="mailto:williamigorsilva@gmail.com">
+    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
    
   ![](https://komarev.com/ghpvc/?username=wigorbh&color=yellowgreen)
 
