@@ -11,9 +11,7 @@
   <img src="https://uploads-ssl.webflow.com/5fba98ad987231cf0efa3d58/5fba9c9a93a2e77624258d49_Logo.svg" width="50" height="30" />
   <a/>
 </p>
-<p>
-
-</p>
+</br>
 <h3>What I've been learning:</h3> 
 <div>
 <!--    <img src="https://emojis.slackmojis.com/emojis/images/1471045839/792/computer.gif?1471045839" align="rigth" margin-left="10px" />
@@ -41,12 +39,11 @@
 </div>
 </br>
 </br>
-</br>
+
 <h3>Maybe you like to know about me</h3>
 <p>🎓 I hold a bachelor's degree in theology </p>
 <p>🏍️ On the weekends I enjoy in riding motorcycles and watch crime movies </p>
 
-</br>
 </br>
 </br>
 <h3><b>Contact</b></h3>
