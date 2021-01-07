@@ -16,8 +16,10 @@ On my github, you'll find projects I've submitted to assess my skills during the
  <p>
    You can check some of my projects implemented through the links:
   </p> 
-   <a href="https://netflix-movieclone.web.app/">NetFlix clone<a> This is a front-end project hosted on firebase
-   <a href="https://netflix-movieclone.web.app/">NetFlix clone<a> This is a front-end and back-end project hosted on heroku
+  <p>This is a front-end project hosted on firebase</p>
+   <a href="https://netflix-movieclone.web.app/">NetFlix clone</a>
+  <p>This is a full project(bank, front and back) hosted on heroku </p>
+   <a href="https://trybeer-frontend.herokuapp.com/">Trybeer E-commerce<a> 
 </br>
 <h3>What I've been learning:</h3> 
 <div>
