@@ -41,8 +41,8 @@
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
 </div>
-   ![w](https://komarev.com/ghpvc/?username=wigorbh)
-
+   
+  ![](https://komarev.com/ghpvc/?username=wigorbh)
   ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=highcontrast)
 
 
