@@ -41,13 +41,13 @@
 </br>
 </br>
 
-<h3>Maybe you like to know about me</h3>
+<h3>Maybe you like to know about me:</h3>
 <p>🎓 I hold a bachelor's degree in theology </p>
 <p>🏍️ On the weekends I enjoy in riding motorcycles and watch crime movies </p>
 
 </br>
 </br>
-<h3><b>Contact</b></h3>
+<h3><b>Contact:</b></h3>
 <div>
 <p>Feel free to contact me if you think somehow I can help you. <s> I'm looking for a job </s> </p>
 
