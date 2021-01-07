@@ -43,9 +43,13 @@
 </div>
 
 </br>
+</br>
+</br>
+<h2>Contact</h2>
    
   ![](https://komarev.com/ghpvc/?username=wigorbh&color=yellowgreen)
-  
+
+</br> 
   
   ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=highcontrast)
 
