@@ -7,7 +7,7 @@
 </h1>
 <p>
   I'm a full stack web developer and currently I'm studying at <a href="https://www.betrybe.com/"> Trybe 
-  <img src="https://uploads-ssl.webflow.com/5fba98ad987231cf0efa3d58/5fba9c9a93a2e77624258d49_Logo.svg" width="50" height="30" />
+  <img src="https://yt3.ggpht.com/ytc/AAUvwniKOMGxGD02USyXcic0VZEBJxLsGJNgD_20IrCNPA=s900-c-k-c0x00ffffff-no-rj" width="50" height="30" />
   <a/>
 </p>
 <p>
