@@ -13,10 +13,10 @@
 <p>
 On my github, you'll find projects I've submitted to assess my skills during the course I've been taking and some other personal projects.
 </p>
- <h4>
-   You can check some of my projects implemented in my personal page: 
-  </h4> 
-  <a href="https://wigorbh.github.io/"><Portfolio</a>
+ <p>
+   You can check some of my projects implemented in my personal page: <a href="https://wigorbh.github.io/"><Portfolio</a>
+  </p> 
+  "https://wigorbh.github.io/"
 <!--   <p>This is a front-end project hosted on firebase: <a href="https://netflix-movieclone.web.app/">NetFlix clone</a></p>
   <p>This is a full project (bank, front and back) hosted on heroku: <a href="https://trybeer-frontend.herokuapp.com/">Trybeer E-commerce</a> </p> -->
 </br>
