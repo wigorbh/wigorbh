@@ -16,6 +16,7 @@ On my github, you'll find projects I've submitted to assess my skills during the
 
    You can check some of my projects implemented in my personal page: https://wigorbh.github.io/
 
+<p> I'm currently studying iOS</p>
 <!--  <a href="https://wigorbh.github.io/"><Portfolio</a>
 <p>This is a front-end project hosted on firebase: <a href="https://netflix-movieclone.web.app/">NetFlix clone</a></p>
   <p>This is a full project (bank, front and back) hosted on heroku: <a href="https://trybeer-frontend.herokuapp.com/">Trybeer E-commerce</a> </p> -->
