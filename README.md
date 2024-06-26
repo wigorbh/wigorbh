@@ -53,7 +53,9 @@ On my github, you'll find projects I've submitted to assess my skills during the
 </br>
 <h3><b>Contact:</b></h3>
 <div>
-<p>Feel free to contact me if you think somehow I can help you. <s> I'm looking for a job. </s> </p>
+<p>Feel free to contact me if you think somehow I can help you.</p> 
+  
+ <!-- <s> I'm looking for a job. </s> !-- >
 
   <a target="_blank" href="https://www.linkedin.com/in/williamigor/">
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
