@@ -1,78 +1,37 @@
-<div>
-<h1>
-  Welcome to my Github. I'm William and I'm very pleased to have you here   <img
-      src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
-       width="30"
-   />
-</h1>
-<p>
-  I'm a full stack web developer.  <!-- and currently I'm studying at <a href="https://www.betrybe.com/"> Trybe --!>
-  <img src="https://yt3.ggpht.com/ytc/AAUvwniKOMGxGD02USyXcic0VZEBJxLsGJNgD_20IrCNPA=s900-c-k-c0x00ffffff-no-rj" width="20" height="20" />
-  <a/>
-</p>
-<p>
-On my github, you'll find projects I've submitted to assess my skills during the course I've been taking and some other personal projects.
-</p>
+# Hi, I'm William 👋
 
-   You can check some of my projects implemented in my personal page: https://wigorbh.github.io/
+**Senior Backend Engineer & Tech Lead** · C# · .NET · Event-Driven Microservices
 
-<p> <b>I'm currently studying iOS</b></p>
-<!--  <a href="https://wigorbh.github.io/"><Portfolio</a>
-<p>This is a front-end project hosted on firebase: <a href="https://netflix-movieclone.web.app/">NetFlix clone</a></p>
-  <p>This is a full project (bank, front and back) hosted on heroku: <a href="https://trybeer-frontend.herokuapp.com/">Trybeer E-commerce</a> </p> -->
-</br>
-<h3>What I've been learning:</h3> 
-<div>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg"></code>
-  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfg1k7RlmIrwr8ke14VH7aEbbvt4IJIbTw&usqp=CAU"></code>
-  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBb74GRnrGpAkoXJNaWtcFEUKxdp1eq8lvLQ&usqp=CAU"></code>
-  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLpGlk0sWlkgCt3GC_COatmtoBoAdjhJFqQ&usqp=CAU"></code>
-  <code><img height="40" src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png"></code>
-  <!-- front end -->
-  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRgD19qMdjAtHrNyJU4b4mi42s8GqGvz8Mw&usqp=CAU"></code>
-  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IJm23e4-m4R3bl2gvUnunOrGEEDEhDnDdg&usqp=CAU"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
-  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh_9jssXtuYIGA_P_tpMK2-Pq7UxrPcIuTPg&usqp=CAU"></code>
-  <!-- database -->
-  <code><img height="40" src="https://miro.medium.com/max/640/1*-ivYkzeuYJedPKdEdfnNlg.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-    <code><img height="40" src="https://img.icons8.com/color/452/microsoft-sql-server.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+I build financially critical backend systems for banking and credit card products. Currently Tech Lead at **Banco BMG**, leading the redesign of the margin reservation core that every loan and credit card depends on.
 
-</div>
-</br>
-</br>
+### 🔧 Tech stack
 
-<h3>Maybe you like to know about me:</h3>
-<p>🎓 I hold a bachelor's degree in theology. </p>
-<p>🏗 I'm fascinated to build things, so I love technology. </p>
-<p>🏍️ On the weekends I enjoy in riding motorcycles and watch crime movies. </p>
-<p>🌍 I live in Belo horizonte (Brazil), where I was born, so I love a coffee with a cheese. </p>
-</br>
-<h3><b>Contact:</b></h3>
-<div>
-<p>Feel free to contact me if you think somehow I can help you.</p> 
-  
- <!-- <s> I'm looking for a job. </s> !-- >
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)
 
-  <a target="_blank" href="https://www.linkedin.com/in/williamigor/">
-    <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a target="_blank" href="mailto:williamigorsilva@gmail.com">
-    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
-</div>
-</br>
-</br>
+### 🚀 Highlights
 
-  ![](https://komarev.com/ghpvc/?username=wigorbh&color=yellowgreen)
-</br> 
-</br>
-  ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=highcontrast)
-</div>
+- Cut per-client margin checks from **90 min to 3 min** with an event-driven redesign
+- Processed files of up to **12 million records** for credit card limit updates
+- Delivered the credit card division's **Project of the Year**
 
+### 🌍 About me
 
+Based in Belo Horizonte, Brazil · Bachelor's in Theology · Motorcycles and crime movies on weekends ☕🧀
 
+### 📫 Contact
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamigor/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:williamigorsilva@gmail.com)
+
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=wigorbh&show_icons=true&theme=highcontrast)
